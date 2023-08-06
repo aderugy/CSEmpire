@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: c696c572318e747678309551aa7a9bcf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22574edbcc0234cc9b3787888c80e2e0
+      internalID: -67425581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4634ce151f4f248be890b7f5dea6a
+      internalID: 1062352655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daafa88e5e4e64e08abba15264d507fe
+      internalID: -789919934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae2d57bdee1a43038d449191eb80495
+      internalID: -1617303973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a56ed63013224eb58e2ae2600f392c1
+      internalID: -1485952067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa73d125c0d84d429145c079876f712
+      internalID: 2122820291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3920
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f36039929a47b1ac781c3ba855965
+      internalID: 1122921489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4bd54bc059b412196167dd20879148
+      internalID: 1780992344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba43671bad343a5b25b4ffc9059a6c
+      internalID: -646074567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a2ac0ecd7c40e0886e4a8e8ab5587
+      internalID: 893098218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e014fe2a458a48d89a4abcffa421806
+      internalID: 1757145380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde72816fa99342d8bdb3475b752e89d
+      internalID: -1540893665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_12
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d93b40718cc46c2ac18b44275c79c3
+      internalID: -1755790694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_13
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3640
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d223501eb37b471cbb323be4be26d6c
+      internalID: 1698857939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8a2a796c8e446dbf6b56298b52531
+      internalID: 1436209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783eb5a46036459382703b53f3d0017
+      internalID: 1511133599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdd57fbba0345d5a4cffa7bc17f0c9
+      internalID: -800803780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_17
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0bfa5e883f46f78b87d42615f1e0f
+      internalID: -1962102046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc916d68abd4a1f8d3617ce5bf0b05
+      internalID: 1676542726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_19
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc095421fd8407e985c54ec0c02048
+      internalID: -1918598194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_20
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3360
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e6fa1ce23946bbb1fb5b80feefa19
+      internalID: 578506211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41312ee99a2f14a2fbe452ccb2993727
+      internalID: -1148417451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da63eddee4dac49dbbfefebf4bf541b4
+      internalID: -20977324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d28c3cb7aa412da0ead7390a7cf36
+      internalID: 727316821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251a761c27234dd3af2800c3787fd0b
+      internalID: -627346199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_25
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eedff4453ef4893a206d1aef52647d
+      internalID: 1567022899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f7079e2fa54a839b6e5ecebf7d715
+      internalID: -727688347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_27
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3080
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ee16dea95e4ecf88a10fed2f770bb
+      internalID: -589313484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6cd415dce224ca3a1234b1dcdfdec6
+      internalID: -179157654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6565e39442f41bbbc3a7405b45d97c
+      internalID: 852948928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045bff24fd7341d4bbfbc26fc5cf7f6
+      internalID: -863836223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd340930980489f971816712dac9d0
+      internalID: 884818270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f61900f3044123908a4150920b7c3
+      internalID: 1788277687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_33
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b633bb2f7e1384f6ca09a033910cdcd8
+      internalID: 1127829741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2800
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3387b5578b5ca4ed89fb75a42b9d93c2
+      internalID: 1508563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7768620c358e479d8e98ba9b0a5e16c
+      internalID: 24493885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498d7e6640754cf19bbb75fffa62b92
+      internalID: 1079724690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_37
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207039ff63ab49d9bcfd17b7e4cb50c
+      internalID: 856342391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_38
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60125f05ca143fd9824c6fd35c644a
+      internalID: 2147234425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_39
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013adb4b649b54144a4e07ae52c11480
+      internalID: -1072971817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_40
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79ed4bcebaf40fd83c4224eaecaf76
+      internalID: -111982004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_41
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2520
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a842f53e5034bd1bd6aebb99f6cadb
+      internalID: 2107870120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1b20cea6194b3296a1ab834c13845
+      internalID: -1213662136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1f260acde64d36965dcbb0dbcd306
+      internalID: -1224377795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a17574420f546b8bb5dd57e09f5da1
+      internalID: 1619016751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_45
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5188cb1624024e2daa366c4133dab8f
+      internalID: 1619400018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2519d5a8dfb477b8fd03e27c02ba4c
+      internalID: 1894930722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_47
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc9e38af5f0460ea145137819bbe1b
+      internalID: -1361948315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_48
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2240
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b9f8202d774d7e97b7560f4c2f7bd
+      internalID: -695993169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4e110024f18411c955ac73d8ecd370
+      internalID: 1460142930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16381a0e9ff46f58026a25b6cfe173
+      internalID: -950641978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102db78ade4844c22917e38084dda00e
+      internalID: -287431806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7286ced51fb41a882d4a9f25b8bc4b
+      internalID: 833271304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_53
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54f2ed71657484da36fbcb3b99709b
+      internalID: -457439612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_54
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b625903f6314f412dad60733f959358d
+      internalID: 352008343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1960
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d8459898619441aadb9b6d327e1a4e
+      internalID: -1599719978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205931e4d7dc4eed8e4c62dcdebb9cd
+      internalID: 181223543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5699354a70b0148eba01097c46718631
+      internalID: 227418085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0fd84b18234e07aeb6c6045f4714f
+      internalID: -1691082486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_59
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29b90316866400299323b1bdd118b1
+      internalID: -2142722241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_60
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55bd417e085142f4800d08883b5fc1d
+      internalID: 924296125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_61
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937a65bbfca7451197d932f31873c09
+      internalID: -244702908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_62
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1680
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954039dff51dd4358b9c26271d2559db
+      internalID: -1525633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e890a831c04309a1ea5f2da9e7eed
+      internalID: 168114506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7b4311cbdb49d69ec145c6e499807
+      internalID: -691389984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31747a0eda94ad5ac9669e4d5b6e20
+      internalID: 1485817796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_66
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8838dccb0de43ca82bd6bd1769f6be
+      internalID: 538276928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_67
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919737618fe34578a77a7ee438073a3
+      internalID: -1593725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_68
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2699a02552554b08a2f99bb853d883d
+      internalID: 2008319532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_69
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1400
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f1376fb1c7649208286fcb7dd36074
+      internalID: 1399011761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa5fdf50aab4602b46a53c857498a7
+      internalID: -1078510916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872f95b000954196a629c8a99187561
+      internalID: 620666901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_72
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a781847a4b7491aa48eade67e14f57
+      internalID: -2046800415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_73
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e2e996135d4465aab2af5435c596c
+      internalID: 406901033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_74
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecbb4e966be489682fdf6db4607b12
+      internalID: -1932906047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_75
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468c1c9bca814f849899759823159e4
+      internalID: -1280090823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_76
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1120
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f3633898cfb4ece85ec78ea6c9dde7
+      internalID: -297575175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65adce866bd94e96b0cadc8cde04049
+      internalID: 1484868882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5729c358738d2465ba4fab4b28959cfa
+      internalID: -1851504157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_79
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313dd8af6f904495aa287134c64b85e3
+      internalID: -1973510761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_80
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9217ede707214362a25edaa093f9335
+      internalID: -1736151943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_81
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6b2987e43bd4f5ea9ad2f3081fcd65
+      internalID: -1644456144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_82
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e159fa3626845e2b2757c01217fd80
+      internalID: -1362405783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_83
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 840
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c046e63a148b431a954c401d877fb31
+      internalID: -1101532660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca4f0790b1542bb9f2645b990f5dc3
+      internalID: -527763675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea63d602a51c3417fbdaa73a9fc444b8
+      internalID: -616679874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_86
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91aa799f859342bcb01a641a0afc41c
+      internalID: -453096394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_87
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c9d9ec84a7d48669fa0969a1c31caa
+      internalID: 1649267882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_88
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b601162d3b9438fb05e241a6d49b07
+      internalID: -421291643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_89
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf632ac0d944f05b881c051b7aacc8
+      internalID: 128028054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_90
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 560
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cdc4f4dde944e868e60f01fab43b5c
+      internalID: 343859847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547d26d742bc43b8bb2ee4a4c95fd36
+      internalID: 1314225450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea81887699554d37911a146e8c8751e
+      internalID: 1993113697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_93
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9dcf75010b41c7a96b20271e5e1a7
+      internalID: 1558460761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_94
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d05399ac2d40c7b3495b80834b351
+      internalID: 2110537210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_95
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1662f68e3424b45ce890093d76a42d82
+      internalID: -1023299425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_96
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c032dda25178343ac92042e30413bffa
+      internalID: -220688363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_97
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 280
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad5da6956c84001b1db8f02924be92
+      internalID: -1485379847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85a08bf4310417eb23c1596591600f
+      internalID: -1756455225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc04300468501461f86688f64deef162
+      internalID: 1518316136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_100
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667d3415837e4dfd8ddcdf78d06b429
+      internalID: 1907402619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_101
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d886c3300d443380b7e098af1ce65
+      internalID: -1445248569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_102
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88935cee902ff4db78fca6cfadba4d0d
+      internalID: -1117444680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_103
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12c1dfd51dc424dac665323d2918d3
+      internalID: 1618981309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-duck-acegifcom-29_104
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 498
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896e02511f88426490cff19d06f4fff
+      internalID: 866890552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d587e74b6270b43d1987773dea74358c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dancing-duck-acegifcom-29_13: 1698857939
+      dancing-duck-acegifcom-29_75: -1280090823
+      dancing-duck-acegifcom-29_26: -727688347
+      dancing-duck-acegifcom-29_77: 1484868882
+      dancing-duck-acegifcom-29_98: -1756455225
+      dancing-duck-acegifcom-29_4: -1485952067
+      dancing-duck-acegifcom-29_71: 620666901
+      dancing-duck-acegifcom-29_81: -1644456144
+      dancing-duck-acegifcom-29_69: 1399011761
+      dancing-duck-acegifcom-29_3: -1617303973
+      dancing-duck-acegifcom-29_11: -1540893665
+      dancing-duck-acegifcom-29_49: 1460142930
+      dancing-duck-acegifcom-29_79: -1973510761
+      dancing-duck-acegifcom-29_24: -627346199
+      dancing-duck-acegifcom-29_59: -2142722241
+      dancing-duck-acegifcom-29_72: -2046800415
+      dancing-duck-acegifcom-29_28: -179157654
+      dancing-duck-acegifcom-29_2: -789919934
+      dancing-duck-acegifcom-29_21: -1148417451
+      dancing-duck-acegifcom-29_87: 1649267882
+      dancing-duck-acegifcom-29_23: 727316821
+      dancing-duck-acegifcom-29_55: -1599719978
+      dancing-duck-acegifcom-29_64: -691389984
+      dancing-duck-acegifcom-29_67: -1593725287
+      dancing-duck-acegifcom-29_73: 406901033
+      dancing-duck-acegifcom-29_99: 1518316136
+      dancing-duck-acegifcom-29_63: 168114506
+      dancing-duck-acegifcom-29_39: -1072971817
+      dancing-duck-acegifcom-29_50: -950641978
+      dancing-duck-acegifcom-29_92: 1993113697
+      dancing-duck-acegifcom-29_60: 924296125
+      dancing-duck-acegifcom-29_101: -1445248569
+      dancing-duck-acegifcom-29_95: -1023299425
+      dancing-duck-acegifcom-29_42: -1213662136
+      dancing-duck-acegifcom-29_7: 1780992344
+      dancing-duck-acegifcom-29_29: 852948928
+      dancing-duck-acegifcom-29_65: 1485817796
+      dancing-duck-acegifcom-29_10: 1757145380
+      dancing-duck-acegifcom-29_32: 1788277687
+      dancing-duck-acegifcom-29_35: 24493885
+      dancing-duck-acegifcom-29_46: 1894930722
+      dancing-duck-acegifcom-29_33: 1127829741
+      dancing-duck-acegifcom-29_51: -287431806
+      dancing-duck-acegifcom-29_5: 2122820291
+      dancing-duck-acegifcom-29_54: 352008343
+      dancing-duck-acegifcom-29_1: 1062352655
+      dancing-duck-acegifcom-29_34: 1508563597
+      dancing-duck-acegifcom-29_66: 538276928
+      dancing-duck-acegifcom-29_19: -1918598194
+      dancing-duck-acegifcom-29_104: 866890552
+      dancing-duck-acegifcom-29_27: -589313484
+      dancing-duck-acegifcom-29_70: -1078510916
+      dancing-duck-acegifcom-29_82: -1362405783
+      dancing-duck-acegifcom-29_22: -20977324
+      dancing-duck-acegifcom-29_47: -1361948315
+      dancing-duck-acegifcom-29_100: 1907402619
+      dancing-duck-acegifcom-29_52: 833271304
+      dancing-duck-acegifcom-29_40: -111982004
+      dancing-duck-acegifcom-29_90: 343859847
+      dancing-duck-acegifcom-29_93: 1558460761
+      dancing-duck-acegifcom-29_44: 1619016751
+      dancing-duck-acegifcom-29_57: 227418085
+      dancing-duck-acegifcom-29_37: 856342391
+      dancing-duck-acegifcom-29_62: -1525633293
+      dancing-duck-acegifcom-29_97: -1485379847
+      dancing-duck-acegifcom-29_86: -453096394
+      dancing-duck-acegifcom-29_20: 578506211
+      dancing-duck-acegifcom-29_103: 1618981309
+      dancing-duck-acegifcom-29_84: -527763675
+      dancing-duck-acegifcom-29_89: 128028054
+      dancing-duck-acegifcom-29_9: 893098218
+      dancing-duck-acegifcom-29_48: -695993169
+      dancing-duck-acegifcom-29_16: -800803780
+      dancing-duck-acegifcom-29_45: 1619400018
+      dancing-duck-acegifcom-29_102: -1117444680
+      dancing-duck-acegifcom-29_30: -863836223
+      dancing-duck-acegifcom-29_43: -1224377795
+      dancing-duck-acegifcom-29_80: -1736151943
+      dancing-duck-acegifcom-29_85: -616679874
+      dancing-duck-acegifcom-29_17: -1962102046
+      dancing-duck-acegifcom-29_76: -297575175
+      dancing-duck-acegifcom-29_56: 181223543
+      dancing-duck-acegifcom-29_25: 1567022899
+      dancing-duck-acegifcom-29_41: 2107870120
+      dancing-duck-acegifcom-29_18: 1676542726
+      dancing-duck-acegifcom-29_15: 1511133599
+      dancing-duck-acegifcom-29_0: -67425581
+      dancing-duck-acegifcom-29_6: 1122921489
+      dancing-duck-acegifcom-29_14: 1436209124
+      dancing-duck-acegifcom-29_61: -244702908
+      dancing-duck-acegifcom-29_8: -646074567
+      dancing-duck-acegifcom-29_78: -1851504157
+      dancing-duck-acegifcom-29_94: 2110537210
+      dancing-duck-acegifcom-29_88: -421291643
+      dancing-duck-acegifcom-29_74: -1932906047
+      dancing-duck-acegifcom-29_91: 1314225450
+      dancing-duck-acegifcom-29_38: 2147234425
+      dancing-duck-acegifcom-29_58: -1691082486
+      dancing-duck-acegifcom-29_83: -1101532660
+      dancing-duck-acegifcom-29_96: -220688363
+      dancing-duck-acegifcom-29_36: 1079724690
+      dancing-duck-acegifcom-29_31: 884818270
+      dancing-duck-acegifcom-29_53: -457439612
+      dancing-duck-acegifcom-29_12: -1755790694
+      dancing-duck-acegifcom-29_68: 2008319532
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
